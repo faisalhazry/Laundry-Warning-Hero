@@ -1,5 +1,5 @@
 # Laundry-Warning-Hero
-Utilizing MySQL Database, Grafana, and Django to track and analyze current weather conditions in real-time.
+Implementing a public website dashboard that allows access to real-time weather monitoring through the utilization of MySQL Database, Grafana, and Django.
 
 ## 1. Problem Statement
 Housewives often have  to dry clothes outside after the laundry. This can be difficult when the weather is unpredictable or when they don't have a reliable way to check the current conditions. 

@@ -156,7 +156,7 @@ To install Django on the computer hosting the Ngrok server, you first need to en
 
 Once Django is connected to the MySQL database, you can start creating dashboards and panels to visualize weather data. This involves creating HTML templates that display temperature and humidity trends in a user-friendly way. Django provides a powerful templating engine that allows you to create reusable HTML templates with dynamic content. You can use Python code within the templates to generate the weather data and pass it to the HTML for display. With Django's built-in support for forms and models, you can create interactive dashboards and panels that allow users to filter and manipulate the weather data. Overall, Django provides a robust and flexible platform for building web applications that visualize weather data and other types of data.
 
-Django file code can be download above repo
+**Django file code can be download above repo**
 
 ![image](https://github.com/faisalhazry/Laundry-Warning-Hero/assets/121289405/ef418585-6905-437c-bd34-c1085c594eac)
 

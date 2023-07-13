@@ -164,7 +164,8 @@ Django file code can be download above repo
 Ngrok, you can establish a secure tunnel, making it easier for your app to access the internet and communicate with external services. This convenient solution simplifies the process of making your locally hosted app accessible to the wider world.
 ![image](https://github.com/faisalhazry/Laundry-Warning-Hero/assets/121289405/d6156cec-884f-4d1f-9025-de6565602622)
 
-The sign Up the service can go thru this link https://dashboard.ngrok.com/login?state=U3_a7VDkgSGweS2GY0b8bAAL2aPm3qYu7BR7Dbcs8QteldjwBSKO6Y26FSGiwTyyuWxHU2ORNmZDKqRiDfYh_UKmqCnOD_TNC3SglR6JFrsIObb4HeaXFjggndWZMnDPMWTBtOgigHOGa8sICe9PMYDFxJk2TU7dUHn-nC60y9EBO9FqNP56ExYp
+The sign Up the service can go thru this link 
+https://dashboard.ngrok.com/login?state=U3_a7VDkgSGweS2GY0b8bAAL2aPm3qYu7BR7Dbcs8QteldjwBSKO6Y26FSGiwTyyuWxHU2ORNmZDKqRiDfYh_UKmqCnOD_TNC3SglR6JFrsIObb4HeaXFjggndWZMnDPMWTBtOgigHOGa8sICe9PMYDFxJk2TU7dUHn-nC60y9EBO9FqNP56ExYp
 
 ### 4.5 Grafana
 

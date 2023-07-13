@@ -162,6 +162,7 @@ Once Django is connected to the MySQL database, you can start creating dashboard
 
 ### 4.4 Ngrok
 Ngrok, you can establish a secure tunnel, making it easier for your app to access the internet and communicate with external services. This convenient solution simplifies the process of making your locally hosted app accessible to the wider world.
+
 ![image](https://github.com/faisalhazry/Laundry-Warning-Hero/assets/121289405/d6156cec-884f-4d1f-9025-de6565602622)
 
 The sign Up the service can go thru this link 

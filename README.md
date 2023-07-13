@@ -1,5 +1,5 @@
 # Laundry-Warning-Hero
-Monitoring real time weather using MySQL
+Monitoring real time weather using MySQL Database and Grafana
 
 ## 1. Problem Statement
 Housewives often have  to dry clothes outside after the laundry. This can be difficult when the weather is unpredictable or when they don't have a reliable way to check the current conditions. 

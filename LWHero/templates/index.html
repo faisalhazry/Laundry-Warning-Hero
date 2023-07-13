@@ -1,0 +1,16 @@
+<table border="1">
+ <tr>
+    <th></th>
+    <th>TEMPERATURE</th>
+    <th>HUMIDITY</th>
+    <th>DATE/TIME  </th>
+  </tr>
+    {% for Dht11 in Dht %}
+  <tr>
+    <th>Data DHT11</th>
+    <td>{{Dht11.temperature}}</td>
+    <td>{{Dht11.humidity}}</td>
+    <td>{{Dht11.datetime}}</td>
+  </tr>
+    {% endfor %}
+</table>
